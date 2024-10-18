@@ -1,3 +1,8 @@
+## Hi there 👋
+I'm Emily Nilsson, currently a masters student, but an aspiring UX/UI designer.
+
+# 💫 About Me:
+🎓Student @ KTH (Royal Institute of Technology) with batchelors in Media Technology and ongoing masters in Interactive Media Technology.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emily-nilsson-3a7a1b157/) 
